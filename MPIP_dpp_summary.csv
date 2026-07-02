@@ -1,0 +1,19 @@
+passport_id,sample_id,polymer_type,quality_grade,confidence_pct,carbon_saving_kg_co2e_per_kg,carbon_saving_vs_virgin_pct,recyclability_score,food_contact_eligible,recycling_pathway
+MPIP-20260627-H0001ULDPE,H0001ULDPE,LDPE,B,63,1.34,65.4,68,False,Mixed film stream — general flexible packaging recycling
+MPIP-20260627-H0002LDPE,H0002LDPE,LDPE,B,59,1.34,65.4,56,False,Mixed film stream — general flexible packaging recycling
+MPIP-20260627-H0003LDPE,H0003LDPE,LDPE,B,62,1.34,65.4,64,False,Mixed film stream — general flexible packaging recycling
+MPIP-20260627-H0004LLDPE,H0004LLDPE,LDPE,A,60,1.53,74.6,93,True,Clean film stream — suitable for film-to-film recycling
+MPIP-20260627-H0005LLDPE,H0005LLDPE,LDPE,B,62,1.34,65.4,67,False,Mixed film stream — general flexible packaging recycling
+MPIP-20260627-H0006MDPE,H0006MDPE,MDPE,A,54,1.48,74.7,82,False,Clean film / flexible packaging stream
+MPIP-20260627-H0007HDPE,H0007HDPE,HDPE,A,57,1.48,76.7,92,True,Premium food-grade HDPE stream — PCR eligible for food-contact applications
+MPIP-20260627-H0008HDPE,H0008HDPE,HDPE,A,58,1.48,76.7,85,True,Premium food-grade HDPE stream — PCR eligible for food-contact applications
+MPIP-20260627-H0009PP,H0009PP,PP,A,69,1.49,75.6,84,True,"Polypropylene stream — packaging reuse, food-contact eligible"
+MPIP-20260627-N1474HDPE,N1474HDPE,LDPE,A,62,1.53,74.6,92,True,Clean film stream — suitable for film-to-film recycling
+MPIP-20260627-N1476LDPE,N1476LDPE,LDPE,B,64,1.34,65.4,71,False,Mixed film stream — general flexible packaging recycling
+MPIP-20260627-S0011PP,S0011PP,PP,A,64,1.49,75.6,84,True,"Polypropylene stream — packaging reuse, food-contact eligible"
+MPIP-20260627-S0024LDPE,S0024LDPE,LDPE,A,63,1.53,74.6,86,True,Clean film stream — suitable for film-to-film recycling
+MPIP-20260627-S0036RPP,S0036RPP,PP,B,56,1.32,67.0,61,False,Polypropylene stream — industrial reuse only
+MPIP-20260627-S0040HDPE,S0040HDPE,HDPE,A,59,1.48,76.7,89,True,Premium food-grade HDPE stream — PCR eligible for food-contact applications
+MPIP-20260627-S0048HDPE,S0048HDPE,HDPE,A,57,1.48,76.7,95,True,Premium food-grade HDPE stream — PCR eligible for food-contact applications
+MPIP-20260627-S0052PP,S0052PP,PP,A,59,1.49,75.6,88,True,"Polypropylene stream — packaging reuse, food-contact eligible"
+MPIP-20260627-S0081LDPE,S0081LDPE,LLDPE,B,45,1.3,65.7,66,False,Mixed film stream — general flexible packaging recycling

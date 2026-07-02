@@ -1,0 +1,5 @@
+metric,generation_1,generation_2,improvement_pct
+Density RMSE on blends,0.0368,0.0198,46.3
+SCB RMSE on blends,111.5,83.6,25.0
+Training samples,19.0,24.0,
+Blend QC failures fed back,0.0,5.0,

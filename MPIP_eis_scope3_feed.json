@@ -1,0 +1,50 @@
+{
+  "eis_entry_type": "verified_recycled_content",
+  "eis_module": "Scope 3 \u2014 Category 1 (Purchased Goods and Services)",
+  "reporting_period": "2026-Q2",
+  "client": "Fortune 500 Consumer Goods \u2014 [Client Name]",
+  "supplier_facility": "Veolia MRF Frankfurt \u2014 Conveyor Line 3",
+  "batch_reference": "MRF-BATCH-20260623-001",
+  "mpip_api_verified": true,
+  "verification_method": "NIR spectroscopy + IBM Granite AI \u2014 MPIP v1.0",
+  "material_purchased": [
+    {
+      "polymer_type": "HDPE",
+      "quality_grade": "A",
+      "quantity_kg": 3400,
+      "dpp_passport_ids": [
+        "MPIP-20260623-H0007HDPE",
+        "MPIP-20260623-H0008HDPE",
+        "MPIP-20260623-S0040HDPE",
+        "MPIP-20260623-S0048HDPE"
+      ],
+      "verified_recycled_pct": 100,
+      "carbon_footprint_kg_co2e_per_kg": 0.45,
+      "carbon_saving_vs_virgin_kg_co2e_per_kg": 1.48,
+      "food_contact_certified": true
+    },
+    {
+      "polymer_type": "PP",
+      "quality_grade": "A",
+      "quantity_kg": 2160,
+      "dpp_passport_ids": [
+        "MPIP-20260623-H0009PP",
+        "MPIP-20260623-S0011PP",
+        "MPIP-20260623-S0052PP"
+      ],
+      "verified_recycled_pct": 100,
+      "carbon_footprint_kg_co2e_per_kg": 0.48,
+      "carbon_saving_vs_virgin_kg_co2e_per_kg": 1.49,
+      "food_contact_certified": true
+    }
+  ],
+  "scope3_emissions_summary": {
+    "total_pcr_kg_purchased": 5560,
+    "total_carbon_kg_co2e": 2566.8,
+    "carbon_saving_vs_all_virgin_kg_co2e": 8250.4,
+    "verification_status": "MPIP-verified \u2014 DPP-backed",
+    "auditable": true,
+    "prior_verification_method": "Supplier declaration only (unverified)",
+    "improvement_note": "Previously this Scope 3 data was based solely on supplier declarations. MPIP provides spectral verification with DPP traceability \u2014 making this data auditable for EU CSRD and SEC climate disclosure requirements."
+  }
+}

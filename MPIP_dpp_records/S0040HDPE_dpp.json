@@ -1,0 +1,63 @@
+{
+  "dpp_metadata": {
+    "passport_id": "MPIP-20260627-S0040HDPE",
+    "passport_version": "1.0",
+    "issuer": "MPIP \u2014 Multi-Modal Polymer Intelligence Platform",
+    "issuer_technology": "IBM Granite 3-8B Instruct + NIR Spectroscopy (NIST methodology)",
+    "regulation": "EU Regulation 2024/1781 (Digital Product Passport)",
+    "issue_date": "2026-06-27T11:10:00Z",
+    "generation_method": "Spectral analysis only \u2014 no QR code, no RFID, no embedded identifier",
+    "data_source": "NIR spectroscopy + ML property prediction (NIST open data methodology)",
+    "identification_note": "This passport was generated from spectral and physical property data alone. The item arrived at the recycling facility with no digital identity. MPIP created this passport from NIR measurements \u2014 covering the 91% of post-consumer plastic that carries no embedded identifier."
+  },
+  "material_identity": {
+    "sample_id": "S0040HDPE",
+    "polymer_type": "HDPE",
+    "polymer_family": "Polyolefin",
+    "quality_grade": "A",
+    "identification_confidence_pct": 59,
+    "identification_method": "NIR spectroscopy + Random Forest property prediction"
+  },
+  "measured_properties": {
+    "density_g_per_cm3": 0.9524,
+    "crystallinity_fraction": 0.6085,
+    "short_chain_branching_ch3_per_1000c": 15.6,
+    "degradation_level": "Low",
+    "measurement_standard": "NIST NIR spectroscopy methodology (doi:10.18434/mds2-3809)"
+  },
+  "environmental_data": {
+    "carbon_footprint_kg_co2e_per_kg": 0.45,
+    "carbon_footprint_vs_virgin_kg_co2e_per_kg": 1.93,
+    "carbon_saving_kg_co2e_per_kg": 1.48,
+    "carbon_saving_vs_virgin_pct": 76.7,
+    "carbon_footprint_basis": "PlasticsEurope Eco-profiles 2023 + Ellen MacArthur Foundation",
+    "recyclability_index_out_of_10": 9.2,
+    "recycled_content_pct": 100,
+    "recycled_content_basis": "Post-consumer recycled \u2014 verified by spectral analysis"
+  },
+  "circularity": {
+    "recycling_pathway": "Premium food-grade HDPE stream \u2014 PCR eligible for food-contact applications",
+    "recyclability_score_0_100": 89,
+    "end_of_life_instruction": "Route to Premium food-grade HDPE stream \u2014 verified PCR grade A",
+    "chemical_recycling_eligible": false,
+    "mechanical_recycling_eligible": true
+  },
+  "regulatory_compliance": {
+    "applicable_regulations": [
+      "EU 10/2011 (food contact plastics)",
+      "REACH Regulation (EC) 1907/2006",
+      "EU Packaging Regulation 2024/1781"
+    ],
+    "food_contact_eligible": true,
+    "reach_compliant": true,
+    "hazardous_substances_flag": false,
+    "eu_dpp_status": "ISSUED \u2014 spectral generation"
+  },
+  "traceability": {
+    "facility_type": "Materials Recovery Facility (MRF)",
+    "sorting_technology": "NIR spectroscopy + IBM Granite AI reasoning",
+    "model_version": "ibm/granite-3-8b-instruct",
+    "nist_dataset_doi": "https://doi.org/10.18434/mds2-3809",
+    "reasoning_summary": "Density of 0.9524 g/cm3 is within the HDPE range (0.941\u20130.965 g/cm3), confirming high-density polyethylene. Crystallinity of 0.6085 indicates well-ordered crystalline structure suitable for food-contact PCR applications. SCB of 15.6 CH3/1000C is consistent with commercial HDPE grades (typical range 2\u201312)."
+  }
+}

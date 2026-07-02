@@ -1,0 +1,55 @@
+Sustainable Innovation Prize →
+
+The Sustainable Innovation Prize recognizes teams that take smart risks, challenge the status quo, and deliver measurable, long‑term value for IBM, our clients, and the communities we serve. This prize highlights work that is both innovative and sustainable—whether it rethinks a core process, unlocks a new technical capability, or uncovers a practical solution that improves how we operate.
+
+What matters is not how big the idea is, but whether it moves the needle. Innovation is rarely tidy or linear; it comes from people who see a better way, act quickly, learn fast, and deliver results that stand up to scrutiny. No idea is too unconventional—what matters is evidence, outcomes, and ownership.
+
+This is your opportunity to showcase your work to a judging panel that includes senior IBM leaders. Submissions from every part of IBM are encouraged. Each entry should demonstrate how the team uncovered, developed, or implemented a new approach—whether through technology, engineering, data, process, or client work—and must include a quantified outcome.
+
+Criteria → 
+
+
+Submissions will be evaluated on their value, innovation, and impact. All content must be suitable for public use and include quantified results.
+
+A committee of senior leaders will assess entries using three criteria:
+
+Sustainability: Does the solution create meaningful, long‑term value, supported by clear, data‑driven quantification? Does it scale and endure beyond a one‑off win?
+
+Innovation: How creative, unexpected, or bold is the idea? Did the team challenge assumptions, take ownership, or work beyond the boundaries of their day‑to‑day role? How well does it reflect smart risk‑taking and rapid learning?
+
+Impact: How widely does the solution resonate across IBM, clients, partners, or communities? Does it deliver tangible, concrete outcomes that others can build on or adopt?
+
+Celebrating innovation at IBM
+
+Meet the winner of our first-ever Sustainable Innovation Prize! 
+
+What happens when brilliant minds across IBM come together to take on the world’s toughest challenges? This year, the answer took shape with the launch of the Sustainable Innovation Prize–a new award established to recognize scalable, high-impact innovations that push boundaries and create a more sustainable future.
+Submissions showcased incredible enthusiasm and ingenuity from teams across IBM, addressing challenges from urban commuting to sustainable hardware design. Our inaugural winner exemplifies the best of what’s possible at IBM when we unite around purpose-driven scalable innovation to deliver game-changing solutions to our clients and partners. We look forward to having the winning team ring the closing bell at the NYSE later this month!
+
+
+Young creative business people meeting at office.
+1,Winner: Safer Materials Advisor (SMA)
+
+Transforming how industries identify and replace hazardous materials
+Industries today rely on thousands of complex components and materials– like PFAS, or “forever chemicals”–that pose serious risks to human health and the environment. Identifying and replacing these substances in global supply chains has long been a costly, manual, and opaque process.
+Enter Safer Materials Advisor (SMA), an advanced AI-powered solution developed by a global team of over 30 researchers. SMA is designed to detect hidden substances of concern, identify regulatory risks, process safety documents at scale, integrate siloed data and automate complex evaluations. Insights into the complexities of PFAS detection has also led to the creation of pfasID, the first open-access PFAS identification tool built from an IBM led collaboration with the NSF, ChemForward, Cornell University, University of Pittsburgh, Digital Science, Numat, Apple, Google, HP, Sonos, and SEMI / SIA and ultimately the enterprise-ready SMA.
+Early pilots at IBM Yorktown and IBM Bromont demonstrated the significant impact of this innovation–reducing safety data sheet review times by 77%, quadrupling PFAS screening throughput, and boosting employee satisfaction by eliminating repetitive manual tasks. Its success was showcased to Think 2025 attendees on Research Day as a Client Zero use case, demonstrating its integration with IBM Granite 4.0 and foundation models from the Foundation Model for Materials (FM4M) project. 
+Looking ahead, SMA is scaling beyond PFAS to address other hazardous substances including heavy metals, flame retardants, and solvents with applications across consumer products, automotive, industrial and biotech industries.
+
+2.Runner Up: Voluntary Carbon Market Platform 
+Building trust and transparency in global carbon markets
+Voluntary carbon markets face serious challenges: slow manual measurement, fragmented collaboration, and limited transparency–issues that undermine trust and open the door to greenwashing.
+
+To address these challenges, the team partnered with Portuguese startup Quellia to create a Digital Monitoring, Reporting, and Verification (dMRV) platform to transform carbon credit management. Built on IBM Cloud, the platform uses satellite imagery, LiDAR data, and AI to deliver accurate, scalable carbon measurement and traceability. It also provides a certified, collaborative ecosystem where stakeholders – including landowners, project developers, and governments – can seamlessly work together.
+
+The collaboration has already generated over €1M in IBM Consulting services, supported by ongoing 5-year contracts and revenue-sharing agreements. Early adoption is underway in Portugal, Brazil, and Mozambique, with a goal of reaching 5,000 licensed users within the next five years. Positioned for growth in a carbon market projected to expand 15x by 2030, the tool is digitizing the entire lifecycle of carbon credit projects. Together, IBM and Quellia are creating the transparency and efficiency needed for markets to scale responsibly.
+
+3.Third Place: Maximo Visual Prompting Lab
+Reimaging enterprise AI with one simple idea: fewer images, faster results
+For years, building AI models for industrial visual inspection required hundreds of annotated images creating cost and adoption barriers for clients. Inspired by the simplicity of ChatGPT prompts, IBM Research posed a question: what if you could build an AI inspection model with just one or two images?
+
+The answer is the Maximo Visual Prompting Lab, a groundbreaking tool developed by IBM Research teams in collaboration with Software, Infrastructure and external clients including Ford, Scottish and Southern Energy, and Unispital. 
+
+Now integrated into Maximo Visual Inspection (MAS 9.1), VP Lab enables AI model creation in seconds with minimal input, over 300 models per day generated on a single GPU, and performance that outpaces competitors. By significantly reducing the effort required to build scalable computer vision models, Maximo Visual Prompting Lab is setting a new industry standard for intuitive, scalable computer vision.
+
+

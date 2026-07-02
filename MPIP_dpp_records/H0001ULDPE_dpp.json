@@ -1,0 +1,62 @@
+{
+  "dpp_metadata": {
+    "passport_id": "MPIP-20260627-H0001ULDPE",
+    "passport_version": "1.0",
+    "issuer": "MPIP \u2014 Multi-Modal Polymer Intelligence Platform",
+    "issuer_technology": "IBM Granite 3-8B Instruct + NIR Spectroscopy (NIST methodology)",
+    "regulation": "EU Regulation 2024/1781 (Digital Product Passport)",
+    "issue_date": "2026-06-27T11:10:00Z",
+    "generation_method": "Spectral analysis only \u2014 no QR code, no RFID, no embedded identifier",
+    "data_source": "NIR spectroscopy + ML property prediction (NIST open data methodology)",
+    "identification_note": "This passport was generated from spectral and physical property data alone. The item arrived at the recycling facility with no digital identity. MPIP created this passport from NIR measurements \u2014 covering the 91% of post-consumer plastic that carries no embedded identifier."
+  },
+  "material_identity": {
+    "sample_id": "H0001ULDPE",
+    "polymer_type": "LDPE",
+    "polymer_family": "Polyolefin",
+    "quality_grade": "B",
+    "identification_confidence_pct": 63,
+    "identification_method": "NIR spectroscopy + Random Forest property prediction"
+  },
+  "measured_properties": {
+    "density_g_per_cm3": 0.9174,
+    "crystallinity_fraction": 0.3756,
+    "short_chain_branching_ch3_per_1000c": 18.9,
+    "degradation_level": "Moderate",
+    "measurement_standard": "NIST NIR spectroscopy methodology (doi:10.18434/mds2-3809)"
+  },
+  "environmental_data": {
+    "carbon_footprint_kg_co2e_per_kg": 0.71,
+    "carbon_footprint_vs_virgin_kg_co2e_per_kg": 2.05,
+    "carbon_saving_kg_co2e_per_kg": 1.34,
+    "carbon_saving_vs_virgin_pct": 65.4,
+    "carbon_footprint_basis": "PlasticsEurope Eco-profiles 2023 + Ellen MacArthur Foundation",
+    "recyclability_index_out_of_10": 6.9,
+    "recycled_content_pct": 100,
+    "recycled_content_basis": "Post-consumer recycled \u2014 verified by spectral analysis"
+  },
+  "circularity": {
+    "recycling_pathway": "Mixed film stream \u2014 general flexible packaging recycling",
+    "recyclability_score_0_100": 68,
+    "end_of_life_instruction": "Route to Mixed film stream \u2014 verified PCR grade B",
+    "chemical_recycling_eligible": false,
+    "mechanical_recycling_eligible": true
+  },
+  "regulatory_compliance": {
+    "applicable_regulations": [
+      "REACH Regulation (EC) 1907/2006",
+      "EU Packaging Regulation 2024/1781"
+    ],
+    "food_contact_eligible": false,
+    "reach_compliant": true,
+    "hazardous_substances_flag": false,
+    "eu_dpp_status": "ISSUED \u2014 spectral generation"
+  },
+  "traceability": {
+    "facility_type": "Materials Recovery Facility (MRF)",
+    "sorting_technology": "NIR spectroscopy + IBM Granite AI reasoning",
+    "model_version": "ibm/granite-3-8b-instruct",
+    "nist_dataset_doi": "https://doi.org/10.18434/mds2-3809",
+    "reasoning_summary": "Density of 0.9174 g/cm3 places this sample in the low-density polyethylene range (0.910\u20130.930 g/cm3). SCB of 18.9 CH3/1000C is consistent with LDPE (20\u201335 CH3/1000C). Crystallinity of 0.3756 falls below 0.40, indicating mixed film stream routing."
+  }
+}
